@@ -39,9 +39,9 @@ Aplicação backend desenvolvida em **Java** com **Spring Boot** para gerenciame
 ### Passos
 
 1. **Clone o repositório**
-   ```bash
+```bash
    git clone https://github.com/GustavoInCode24/Banco-Spring-Boot.git
-  ´´´´ 
+````
 2. **Acesse o diretório do projeto**  
 ```bash
   cd Banco-Spring-Boot
