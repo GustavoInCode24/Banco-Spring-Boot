@@ -71,8 +71,7 @@ Banco-Spring-Boot/
 │  │  ├─ java/
 │  │  │  └─ com/banco/ (controllers, services, repositories, models)
 │  │  └─ resources/
-│  │     ├─ application.properties
-│  │     └─ static / templates (se houver)
+│  │     └─ application.properties
 │  └─ test/
 ├─ pom.xml
 └─ README.md
