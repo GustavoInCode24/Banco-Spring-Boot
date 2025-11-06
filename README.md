@@ -23,7 +23,7 @@ Aplicação backend desenvolvida em **Java** com **Spring Boot** para gerenciame
 - **Hibernate**  
 - **PostgreSQL**  
 - **Maven**  
-- **API externa de CEP**
+- **API externa VIACEP**
 
 ---
 
