@@ -66,15 +66,32 @@ Aplicação backend desenvolvida em **Java** com **Spring Boot** para gerenciame
 
 ````
 Banco-Spring-Boot/
+│
 ├─ src/
 │  ├─ main/
 │  │  ├─ java/
-│  │  │  └─ com/banco/ (controllers, services, repositories, models)
+│  │  │  └─ br/
+│  │  │     └─ edu/
+│  │  │        └─ fatecpg/
+│  │  │           └─ springbanco/
+│  │  │              ├─ model/
+│  │  │              │  └─ Endereco.java
+│  │  │              │
+│  │  │              ├─ repository/
+│  │  │              │  └─ EnderecoRepository.java
+│  │  │              │
+│  │  │              ├─ service/
+│  │  │              │  └─ Banco.java
+│  │  │              │
+│  │  │              └─ SpringbancoApplication.java
+│  │  │
 │  │  └─ resources/
 │  │     └─ application.properties
-│  └─ test/
-├─ pom.xml
+│  │
+│  └─ pom.xml
+│
 └─ README.md
+
 ````
 
 ---
