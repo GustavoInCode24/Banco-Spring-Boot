@@ -97,7 +97,7 @@ Banco-Spring-Boot/
 ---
 ## 👨‍💻 Autor
 
-Gustavo Lemos (GustavoInCode24)
+Gustavo Lemos (GustavoLDO)
 🔗 GitHub
 
 
